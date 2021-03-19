@@ -41,4 +41,6 @@ $$
 \end{align*}
 $$  
 
-where the last line was found by applying the standard double angle formula for cosine.
+where the last line was found by applying the standard double angle formula for cosine.  
+
+<img src="\images\2021-03-19-09-28.png">  
