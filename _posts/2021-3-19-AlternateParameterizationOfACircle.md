@@ -85,7 +85,7 @@ so that
 $$
 \begin{align*}
 \cos{\theta}&=\frac{1}{h}\\
-&=\frac{1}{\sqrt{1+t^2}
+&=\frac{1}{\sqrt{1+t^2}}
 \end{align*}
 $$  
 
