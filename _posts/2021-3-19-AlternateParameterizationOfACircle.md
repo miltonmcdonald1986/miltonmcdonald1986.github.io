@@ -26,9 +26,13 @@ y(t)&=\frac{2t}{1+t^2}\quad 0\leq t\leq 1.
 \end{align*}
 $$  
 
-To show this, let $t=\tan{u/2}$.  Then $u=2\arctan{t}$.
+To show this, let $t=\tan{u/2}$.  Then  
 
-<details style="color:#d33682;"><summary markdown='span'><small>Click here for details.</small></summary>
+$$
+u=2\arctan{t}.\quad (1)
+$$
+
+<details style="color:#d33682;"><summary markdown='span'><small>Click here for details of (1).</small></summary>
 
 We have  
 
@@ -48,15 +52,15 @@ Thus we can write
 $$
 \begin{align*}
 \cos{u}&=\cos\left({2\arctan{t}}\right)&\\
-&=2\cos^2(\arctan{t}) - 1&(1)\\
-&=2\left(\frac{1}{\sqrt{1+t^2}}\right)^2-1&(2)\\
+&=2\cos^2(\arctan{t}) - 1&(2)\\
+&=2\left(\frac{1}{\sqrt{1+t^2}}\right)^2-1&(3)\\
 &=2\left(\frac{1}{1+t^2}\right)-1&\\
 &=\frac{2-(1+t^2)}{1+t^2}&\\
 &=\frac{1-t^2}{1+t^2}&
 \end{align*}
 $$  
   
-<details style="color:#228B22;"><summary markdown='span'><small>Click here for details of (1).</small></summary>
+<details style="color:#228B22;"><summary markdown='span'><small>Click here for details of (2).</small></summary>
 
 One of the double angle formulas for cosine is  
 
@@ -68,7 +72,7 @@ Setting $\theta=\arctan{t}$ gives $\cos{2\arctan{t}}=2\cos^2{\arctan{t}}-1$.
 
 </details>  
   
-<details style="color:#d33682;"><summary markdown='span'><small>Click here for details of (2).</small></summary>  
+<details style="color:#d33682;"><summary markdown='span'><small>Click here for details of (3).</small></summary>  
 To simplify $\cos(\arctan{t})$, we must find the cosine of the angle whose tangent is $t$.  We construct a right triangle that satisfies the condition $\tan{\theta}=t$.  By definition of tangent ($\tan{\theta}=\mbox{opposite}/\mbox{hypotenuse})$, the right triangle shown in the figure below satisfies the condition.  
 <img src="\images\2021-03-19-13-01.png">  
 The Pythagorean Theorem gives  
