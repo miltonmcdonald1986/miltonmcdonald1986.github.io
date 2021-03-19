@@ -26,4 +26,13 @@ y(t)&=\frac{2t}{1+t^2}\quad 0\leq t\leq 1.
 \end{align*}
 $$  
 
-If $t=\tan{u/2}$, then $u=2\arctan{t}$, and we can write $\cos{u}=\cos\left({2\arctan{t}}\right)$.
+Let $t=\tan{u/2}$. Then $u=2\arctan{t}$, and we can write  
+
+$$
+\begin{align*}
+\cos{u}&=\cos\left({2\arctan{t}}\right)\\
+&=2\cos^2(\arctan{t}) - 1,
+\end{align*}
+$$  
+
+where the last line was found by applying the standard double angle formula for cosine.
