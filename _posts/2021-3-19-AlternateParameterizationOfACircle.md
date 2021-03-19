@@ -1,5 +1,6 @@
 ---
 layout: post
+mathjax: true
 title: Alternate Parameterization of a Circle
 ---
 
