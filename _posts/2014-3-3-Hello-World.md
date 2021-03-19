@@ -3,4 +3,4 @@ layout: post
 title: Try out blog!
 ---
 
-$$\pi*r^2$$
+Something new. $$\pi*r^2$$
