@@ -31,7 +31,7 @@ Let $t=\tan{u/2}$. We will solve for $u$.
 ## collapsible markdown?
 
 <details><summary>CLICK ME</summary>
-<p>
+<pre>
 
 #### yes, even hidden code blocks!
 
@@ -39,7 +39,7 @@ Let $t=\tan{u/2}$. We will solve for $u$.
 print("hello world!")
 ```
 
-</p>
+</pre>
 </details>
 
 We have  
