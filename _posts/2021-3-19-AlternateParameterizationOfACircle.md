@@ -26,7 +26,7 @@ y(t)&=\frac{2t}{1+t^2}\quad 0\leq t\leq 1.
 \end{align*}
 $$  
 
-To show this, let $t=\tan{u/2}$.  Then $u=2\arctan{t}$
+To show this, let $t=\tan{u/2}$.  Then $u=2\arctan{t}$.
 
 <details><summary markdown='span'>Click here for details.</summary>
 
@@ -41,13 +41,7 @@ u&=2\arctan{t}&
 $$  
 
 </details>  
-
-We have  
-
-$$
-t=\tan\left(u/2\right)\Leftrightarrow u/2=\arctan{t} \Leftrightarrow u=2\arctan{t}.
-$$  
-
+  
 Thus we can write  
 
 $$
