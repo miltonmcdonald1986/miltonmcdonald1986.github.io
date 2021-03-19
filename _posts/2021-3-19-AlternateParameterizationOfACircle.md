@@ -74,7 +74,7 @@ To simplify $(\cos{\arctan{t}})$, we must find the cosine of the angle whose tan
 The Pythagorean Theorem gives  
   
 $$
-h^2=1^2+t^2\Leftrightarrow h=\sqrt{1+t^2},
+h^2=1^2+t^2\quad\Leftrightarrow\quad h=\sqrt{1+t^2},
 $$  
 
 so that  
