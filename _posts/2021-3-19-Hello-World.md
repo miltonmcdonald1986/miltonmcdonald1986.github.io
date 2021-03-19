@@ -14,7 +14,7 @@ $$
 We will show that by setting $t=\tan(u/2)$, one can derive the alternate representation
 $$
 \begin{align*}
-x(t)=\frac{1-t^2}{1+t^2}\\
-y(t)=\frac{2t}{1+t^2}\quad 0\leq t\leq 1.
+x(t)&=\frac{1-t^2}{1+t^2}\\
+y(t)&=\frac{2t}{1+t^2}\quad 0\leq t\leq 1.
 \end{align*}
 $$
