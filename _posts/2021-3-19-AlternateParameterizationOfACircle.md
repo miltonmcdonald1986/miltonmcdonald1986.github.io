@@ -30,8 +30,7 @@ Let $t=\tan{u/2}$. We will solve for $u$.
 
 ## collapsible markdownTHREE?  
 
-<details><summary>CLICK ME
-  </summary>
+<details><summary markdown='span'>CLICK ME</summary>
 
 #### yes, even hidden code blocks!
 
