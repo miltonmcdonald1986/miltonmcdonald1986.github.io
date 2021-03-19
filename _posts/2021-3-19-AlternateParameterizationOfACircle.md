@@ -26,7 +26,20 @@ y(t)&=\frac{2t}{1+t^2}\quad 0\leq t\leq 1.
 \end{align*}
 $$  
 
-Let $t=\tan{u/2}$. We will solve for $u$.  We have  
+Let $t=\tan{u/2}$. We will solve for $u$.  
+
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>  
+
+We have  
 
 $$
 t=\tan\left(u/2\right)\Leftrightarrow u/2=\arctan{t} \Leftrightarrow u=2\arctan{t}.
@@ -41,6 +54,5 @@ $$
 \end{align*}
 $$  
 
-where the last line was found by applying the standard double angle formula for cosine.  
-
+where the last line was found by applying the standard double angle formula for cosine.  The last expression can be simplified further by considering the right triangle, pictured below.  The angle $\arctan{t}$ is the angle whose tangent is $t$, as shown in the figure.  The Pythagorean Theorem gives the hypotenuse to be $\sqrt{1+t^2}$, and we have $\cos{\arctan{t}}=1/\sqrt$1+t^2}$.
 <img src="\images\2019-03-19-09-42.png">  
