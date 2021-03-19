@@ -28,7 +28,7 @@ $$
 
 Let $t=\tan{u/2}$. We will solve for $u$.  
 
-## collapsible markdown1?
+## collapsible markdownONE?
 
 <details><summary>CLICK ME</summary>
 <pre>
