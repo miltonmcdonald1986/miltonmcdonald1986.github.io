@@ -43,4 +43,4 @@ $$
 
 where the last line was found by applying the standard double angle formula for cosine.  
 
-<img src="\images\2019-03-19-09-28.png">  
+<img src="\images\2019-03-19-09-42.png">  
