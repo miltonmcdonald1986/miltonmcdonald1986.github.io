@@ -11,6 +11,8 @@ y(t)&=\sin{u}\quad 0\leq u\leq\frac{\pi}{2}.
 \end{align*}
 $$
 
+<img src="\images\FirstQuadrantCosSinParameterization.gif">
+
 We will show that by setting $t=\tan(u/2)$, one can derive the alternate representation
 $$
 \begin{align*}
