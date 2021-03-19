@@ -28,7 +28,7 @@ $$
 
 To show this, let $t=\tan{u/2}$.  Then $u=2\arctan{t}$.
 
-<details style="color:DarkOliveGreen;"><summary markdown='span'><small>Click here for details.</small></summary>
+<details style="color:#d33682;"><summary markdown='span'><small>Click here for details.</small></summary>
 
 We have  
 
