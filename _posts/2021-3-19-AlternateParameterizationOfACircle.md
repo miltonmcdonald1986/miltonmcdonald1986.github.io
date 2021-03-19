@@ -28,11 +28,9 @@ $$
 
 Let $t=\tan{u/2}$. We will solve for $u$.  
 
-## collapsible markdownTWO?  
+## collapsible markdownTHREE?  
 
-<details>
-  <summary>
-    CLICK ME
+<details><summary>CLICK ME
   </summary>
 
 #### yes, even hidden code blocks!
