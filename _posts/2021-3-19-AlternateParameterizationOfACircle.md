@@ -56,9 +56,21 @@ $$
 &=2\left(\frac{1}{\sqrt{1+t^2}}\right)^2-1&(3)\\
 &=2\left(\frac{1}{1+t^2}\right)-1&\\
 &=\frac{2-(1+t^2)}{1+t^2}&\\
-&=\frac{1-t^2}{1+t^2}&
+&=\frac{1-t^2}{1+t^2},&
 \end{align*}
 $$  
+  
+and  
+
+$$
+\begin{align*}
+\sin(u)&=\sin(2\arctan{t})&\\
+&=2\sin{\arctan{t}}\cos{\arctan{t}}&(4)\\
+&=2\
+&=2\left(\frac{t}{\sqrt{1+t^2}}\right)\left(\frac{1}{\sqrt{1+t^2}}\right)&(5)\\
+&=\frac{2t}{1+t^2}.&
+\end{align*}
+$$
   
 <details style="color:#228B22;"><summary markdown='span'><small>Click here for details of (2).</small></summary>
 
