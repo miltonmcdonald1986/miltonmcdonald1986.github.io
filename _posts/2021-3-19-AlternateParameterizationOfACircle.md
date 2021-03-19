@@ -77,15 +77,21 @@ $$
 x(t)&=\frac{1-t^2}{1+t^2}\\
 y(t)&=\frac{2t}{1+t^2}\quad 0\leq t\leq 1
 \end{align*}
-$$
+$$  
+
 represent points on the unit circle, we compute  
 
 $$
 \begin{align*}
 (x(t))^2+(y(t))^2&=\left(\frac{1-t^2}{1+t^2}\right)^2+\left(\frac{2t}{1+t^2}\right)^2\\
-&=\frac{\left(1-2t^2+t^4\right)+4t^4}{(1+t^2)^2}
+&=\frac{\left(1-2t^2+t^4\right)+4t^2}{(1+t^2)^2}\\
+&=\frac{1+2t^2+t^4}{(1+t^2)^2}\\
+&=\frac{(1+t^2)^2}{(1+t^2)^2}\\
+&=1.
 \end{align*}
-$$
+$$  
+
+We verify that this parameterization represents a point traversing the first quadrant using the picture below.
   
 <details style="color:#228B22;"><summary markdown='span'><small>Click here for details of (2).</small></summary>
 
