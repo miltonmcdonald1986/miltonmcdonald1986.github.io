@@ -26,17 +26,19 @@ y(t)&=\frac{2t}{1+t^2}\quad 0\leq t\leq 1.
 \end{align*}
 $$  
 
-Let $t=\tan{u/2}$. We will solve for $u$.  
+To show this, let $t=\tan{u/2}$.  Then $u=2\arctan{t}$
 
-## collapsible markdownIV  
+<details><summary markdown='span'>Click here for details.</summary>
 
-<details><summary markdown='span'>CLICK ME</summary>
+We have  
 
-#### yes, even hidden code blocks!
-
-```python
-print("hello world!")
-```
+$$
+\begin{align*}
+t&=\tan{u/2}&\Leftrightarrow\\
+u/2&=\arctan{t} &\Leftrightarrow\\
+u&=2\arctan{t}&
+\end{align*}
+$$  
 
 </details>  
 
