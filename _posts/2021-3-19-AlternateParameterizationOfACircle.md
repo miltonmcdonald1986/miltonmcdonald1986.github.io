@@ -47,8 +47,9 @@ Thus we can write
 
 $$
 \begin{align*}
-\cos{u}&=\cos\left({2\arctan{t}}\right)\\
-&=2\cos^2(\arctan{t}) - 1,
+\cos{u}&=\cos\left({2\arctan{t}}\right)&\\
+&=2\cos^2(\arctan{t}) - 1&(1)\\
+&=2\left(\frac{1}{\sqrt{1+t^2}}\right)^2-1&(2)
 \end{align*}
 $$  
 
