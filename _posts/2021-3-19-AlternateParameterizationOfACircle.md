@@ -30,7 +30,7 @@ Let $t=\tan{u/2}$. We will solve for $u$.
 
 # A collapsible section with markdown
 <details>
-  <summary>Click to expand!</summary>
+  <summary>Click to expand!</summary>  
   
   ## Heading
   1. A numbered
