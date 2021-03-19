@@ -58,15 +58,13 @@ $$
   
 <details style="color:#d33682;"><summary markdown='span'><small>Click here for details of (1).</small></summary>
 
-We have  
+One of the double angle formulas for cosine is  
 
 $$
-\begin{align*}
-t&=\tan{u/2}&\Leftrightarrow\\
-u/2&=\arctan{t} &\Leftrightarrow\\
-u&=2\arctan{t}&
-\end{align*}
+\cos(2\theta)=2\cos^2\theta-1.
 $$  
+
+Setting \theta=\arctan{t} gives \cos{2\arctan{t}}=2\cos^2{\arctan{t}}-1.
 
 </details>  
   
