@@ -28,7 +28,7 @@ $$
 
 To show this, let $t=\tan{u/2}$.  Then $u=2\arctan{t}$.
 
-<details><summary markdown='span'>Click here for details.</summary>
+<details><summary markdown='span'><small>Click here for details.</small></summary>
 
 We have  
 
@@ -41,6 +41,7 @@ u&=2\arctan{t}&
 $$  
 
 </details>  
+  
   
 Thus we can write  
 
