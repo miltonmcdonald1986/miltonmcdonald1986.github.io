@@ -55,6 +55,34 @@ $$
 &=\frac{1-t^2}{1+t^2}&
 \end{align*}
 $$  
+  
+<details style="color:#d33682;"><summary markdown='span'><small>Click here for details of (1).</small></summary>
+
+We have  
+
+$$
+\begin{align*}
+t&=\tan{u/2}&\Leftrightarrow\\
+u/2&=\arctan{t} &\Leftrightarrow\\
+u&=2\arctan{t}&
+\end{align*}
+$$  
+
+</details>  
+  
+<details style="color:#d33682;"><summary markdown='span'><small>Click here for details of (2).</small></summary>
+
+We have  
+
+$$
+\begin{align*}
+t&=\tan{u/2}&\Leftrightarrow\\
+u/2&=\arctan{t} &\Leftrightarrow\\
+u&=2\arctan{t}&
+\end{align*}
+$$  
+
+</details>  
 
 where the last line was found by applying the standard double angle formula for cosine.  The last expression can be simplified further by considering the right triangle, pictured below.  The angle $\arctan{t}$ is the angle whose tangent is $t$, as shown in the figure.  The Pythagorean Theorem gives the hypotenuse to be $\sqrt{1+t^2}$, and we have $\cos{\arctan{t}}=1/\sqrt$1+t^2}$.
 <img src="\images\2019-03-19-09-42.png">  
