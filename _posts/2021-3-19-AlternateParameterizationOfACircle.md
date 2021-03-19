@@ -64,7 +64,7 @@ $$
 \cos(2\theta)=2\cos^2\theta-1.
 $$  
 
-Setting \theta=\arctan{t} gives \cos{2\arctan{t}}=2\cos^2{\arctan{t}}-1.
+Setting $\theta=\arctan{t}$ gives $\cos{2\arctan{t}}=2\cos^2{\arctan{t}}-1$.
 
 </details>  
   
