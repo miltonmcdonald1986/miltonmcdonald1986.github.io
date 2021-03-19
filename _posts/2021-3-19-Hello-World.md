@@ -11,4 +11,4 @@ y(t)&=\sin{u}\quad 0\leq\u\leq\frac{\pi}{2}.
 \end{align*}
 $$
 
-Show shit.
+We must show shit.
