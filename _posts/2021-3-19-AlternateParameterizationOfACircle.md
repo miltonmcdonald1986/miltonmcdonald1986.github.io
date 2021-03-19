@@ -70,7 +70,7 @@ Setting $\theta=\arctan{t}$ gives $\cos{2\arctan{t}}=2\cos^2{\arctan{t}}-1$.
   
 <details style="color:#d33682;"><summary markdown='span'><small>Click here for details of (2).</small></summary>  
 To simplify $(\cos{\arctan{t}})$, we must find the cosine of the angle whose tangent is $t$.  We construct a right triangle that satisfies the condition $\tan{\theta}=t$.  By definition of tangent ($\tan{\theta}=\mbox{opposite}/\mbox{hypotenuse})$, the right triangle shown in the figure below satisfies the condition.
-<img src="\images/2021-03-19-13-01.png">  
+<img src="\images\2021-03-19-13-01.png">  
   
 
 </details>   
