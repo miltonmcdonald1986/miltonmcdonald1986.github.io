@@ -56,7 +56,7 @@ $$
 \end{align*}
 $$  
   
-<details style="color:#d33682;"><summary markdown='span'><small>Click here for details of (1).</small></summary>
+<details style="color:#228B22;"><summary markdown='span'><small>Click here for details of (1).</small></summary>
 
 One of the double angle formulas for cosine is  
 
