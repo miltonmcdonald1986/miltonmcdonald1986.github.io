@@ -91,7 +91,8 @@ $$
 \end{align*}
 $$  
 
-We verify that this parameterization represents a point traversing the first quadrant using the picture below.
+We verify that this parameterization represents a point traversing the first quadrant using the picture below.  
+<img src="\images\2021-03-19-15-07.gif">  
   
 <details style="color:#228B22;"><summary markdown='span'><small>Click here for details of (2).</small></summary>
 
