@@ -66,7 +66,6 @@ $$
 \begin{align*}
 \sin(u)&=\sin(2\arctan{t})&\\
 &=2\sin{\arctan{t}}\cos{\arctan{t}}&(4)\\
-&=2\
 &=2\left(\frac{t}{\sqrt{1+t^2}}\right)\left(\frac{1}{\sqrt{1+t^2}}\right)&(5)\\
 &=\frac{2t}{1+t^2}.&
 \end{align*}
