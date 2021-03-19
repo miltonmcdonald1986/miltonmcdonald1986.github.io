@@ -26,4 +26,4 @@ y(t)&=\frac{2t}{1+t^2}\quad 0\leq t\leq 1.
 \end{align*}
 $$  
 
-If $t=\tan{u/2}$, then $u=2\arctan{t}$.
+If $t=\tan{u/2}$, then $u=2\arctan{t}$, and we can write $\cos{u}=\cos\left({2\arctan{t}}\right)$.
