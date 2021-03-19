@@ -7,8 +7,14 @@ The first quadrant of a circle is defined by the parametric functions
 $$
 \begin{align*}
 x(t)&=\cos{u}\\
-y(t)&=\sin{u}\quad 0\leq\u\leq\frac{\pi}{2}.
+y(t)&=\sin{u}\quad 0\leq u\leq\frac{\pi}{2}.
 \end{align*}
 $$
 
-We must show shit.
+Show that by setting $t=\tan(u/2)$, one can derive the alternate representation
+$$
+\begin{align*}
+x(t)=\frac{1-t^2}{1+t^2}
+y(t)=\frac{2t}{1+t^2}\quad 0\leq t\leq 1.
+\end{align*}
+$$
