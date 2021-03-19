@@ -26,7 +26,13 @@ y(t)&=\frac{2t}{1+t^2}\quad 0\leq t\leq 1.
 \end{align*}
 $$  
 
-Let $t=\tan{u/2}$. Then $u=2\arctan{t}$, and we can write  
+Let $t=\tan{u/2}$. We will solve for $u$.  We have  
+
+$$
+t=\tan\left(u/2\right)\Leftrightarrow u/2=\arctan{t} \Leftrightarrow u=2\arctan{t}.
+$$  
+
+Thus we can write  
 
 $$
 \begin{align*}
