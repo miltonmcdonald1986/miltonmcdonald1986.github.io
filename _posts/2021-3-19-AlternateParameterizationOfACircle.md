@@ -64,10 +64,26 @@ and
 
 $$
 \begin{align*}
-\sin(u)&=\sin(2\arctan{t})&\\
+\sin{u}&=\sin(2\arctan{t})&\\
 &=2\sin(\arctan{t})\cos(\arctan{t})&(4)\\
 &=2\left(\frac{t}{\sqrt{1+t^2}}\right)\left(\frac{1}{\sqrt{1+t^2}}\right)&(5)\\
 &=\frac{2t}{1+t^2}.&
+\end{align*}
+$$  
+
+Furthermore, $0\leq u\leq\pi/2$ implies $0\leq t\leq 1$.  To confirm that, for each $t$, the alternative parameterizations  
+$$
+\begin{align*}
+x(t)&=\frac{1-t^2}{1+t^2}\\
+y(t)&=\frac{2t}{1+t^2}\quad 0\leq t\leq 1
+\end{align*}
+$$
+represent points on the unit circle, we compute  
+
+$$
+\begin{align*}
+(x(t))^2+(y(t))^2&=\left(\frac{1-t^2}{1+t^2}\right)^2+\left(\frac{2t}{1+t^2}\right)^2\\
+&=\frac{\left(1-2t^2+t^4\right)+4t^4}{(1+t^2)^2}
 \end{align*}
 $$
   
