@@ -13,9 +13,7 @@ y(u)&=\sin{u}\quad 0\leq u\leq\frac{\pi}{2}.
 \end{align*}
 $$  
 
-The following image illustrates this parameterization.  Note that as $u$ increases from $u=0$ to $u=1$, the point $\left(x(u), y(u)\right)=\left(\cos{u}, \sin{u}\right)$ traverses the first quadrant of the unit circle.  
-
-<img src="\images\2021-03-19-08-34.gif">  
+To see this, note that $(x(u))^2+(y(u))^2=\cos^2(u)+\sin^2(u)=1$. Thus the parameterization satisfies the equation of the unit circle for all $u\epsilon\left[0,\pi/2\right\]$.
 
 We will show that by setting $t=\tan\left(u/2\right)$, one can derive the alternate representation  
 
